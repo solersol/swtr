@@ -76,7 +76,7 @@ const ComingSoon = () => {
     { 
       title: "PUMPFUN", 
       text: "Buy Now", 
-      link: "https://pump.fun/", 
+      link: "https://pump.fun/GkW5NBtUPrbEdcbA2kr8je3NkHvuE4vkq2kV9zPQpump", 
       image: img2, 
       bgColor: "bg-black bg-opacity-50"
     },
@@ -93,7 +93,7 @@ const ComingSoon = () => {
     <section className="w-full h-screen flex flex-col justify-center items-center">
       {/* CA Heading */}
       <h1 className="text-white text-4xl md:text-6xl font-bold font-elite text-center mb-8">
-        CA: 
+        CA: GkW5NBtUPrbEdcbA2kr8je3NkHvuE4vkq2kV9zPQpump
       </h1>
       
       {/* Cards Centered in the Middle */}
